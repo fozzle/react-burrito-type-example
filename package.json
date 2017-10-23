@@ -4,7 +4,7 @@
   "homepage": "https://fozzle.github.io/react-burrito-type-example",
   "dependencies": {
     "react": "^16.0.0",
-    "react-burrito-type": "^0.0.2",
+    "react-burrito-type": "^0.0.3",
     "react-dom": "^16.0.0",
     "react-scripts": "1.0.14"
   },

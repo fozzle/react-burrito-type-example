@@ -5186,9 +5186,9 @@ rc@^1.0.1, rc@^1.1.6, rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-burrito-type@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/react-burrito-type/-/react-burrito-type-0.0.2.tgz#9163c88fa79e0c9c2b4b49ab40a7b8339dc11b35"
+react-burrito-type@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/react-burrito-type/-/react-burrito-type-0.0.3.tgz#02cd1590eba140f09e2b5bbd68ad7f78bc858e9e"
   dependencies:
     react "^16.0.0"
     react-dom "^16.0.0"
