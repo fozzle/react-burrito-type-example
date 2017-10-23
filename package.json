@@ -1,10 +1,9 @@
 {
   "name": "react-burritotype-example",
   "version": "0.1.0",
-  "homepage": "https://fozzle.github.io/react-burrito-type-example",
   "dependencies": {
     "react": "^16.0.0",
-    "react-burrito-type": "^0.0.3",
+    "react-burrito-type": "0.0.4",
     "react-dom": "^16.0.0",
     "react-scripts": "1.0.14"
   },
