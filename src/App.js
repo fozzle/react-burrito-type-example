@@ -30,6 +30,9 @@ class App extends Component {
     return (
       <div className="App">
         <h1>React Burrito Type - Demo</h1>
+        <p>
+          Demo of <a href="https://www.npmjs.com/package/react-burrito-type">react-burrito-type</a>. Type in the box below.
+        </p>
         <div>
           <input placeholder="Type something..." name="text" type="text" onChange={this.handleFieldChange} />
           <h3>Parameters</h3>
