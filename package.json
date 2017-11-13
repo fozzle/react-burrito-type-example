@@ -2,6 +2,7 @@
   "name": "react-burritotype-example",
   "version": "0.1.0",
   "homepage": "https://kpetrovi.ch/react-burrito-type-example",
+  "repository": "https://github.com/fozzle/react-burrito-type-example",
   "dependencies": {
     "react": "^16.0.0",
     "react-burrito-type": "^0.0.5",
